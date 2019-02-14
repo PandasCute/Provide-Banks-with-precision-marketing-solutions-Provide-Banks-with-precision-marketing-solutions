@@ -44,6 +44,8 @@
  ## 4.特征工程 
  特征工程主要有[biubiu](https://www.kesci.com/home/project/5c36b5b8e691ba002c3a51f8) 和CountVectorizer()
 
-## 5.模型训练   
- ![avatar][base64str]
 
+## 5.模型训练  
+最终结果
+5	-	小兔子乖乖	0.93984283	3	19-02-12 14:08	19-02-14 09:53
+ 如有侵权联系[小兔子乖乖](https://github.com/PandasCute) 哦
