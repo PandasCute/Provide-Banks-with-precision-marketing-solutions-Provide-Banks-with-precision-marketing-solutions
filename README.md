@@ -30,7 +30,20 @@
 |15	|pdays|	Int	|距离上次活动最后一次联系该客户，过去了多久（999表示没有联系过）|
 |16	|previous	|Int|	在本次活动之前，与该客户交流过的次数|
 |17	|poutcome	|String|	上一次活动的结果|
-|18	|y	|Int|	预测客户是否会订购定期存款业务|
+|18	|y	|Int|	预测客户是否会订购定期存款业务|      
 
+## 2.配置环境与依赖库 
+  - python3
+  - scikit-learn
+  - jupyter notebook
+  - numpy,pandas
+  
+ ## 3.运行代码步骤说明  
+ 
+ -  直接运行，路径根据各自所需路径自行修改
+ ## 4.特征工程 
+ 特征工程主要有[biubiu](https://www.kesci.com/home/project/5c36b5b8e691ba002c3a51f8) 和CountVectorizer()
 
+## 5.模型训练   
+ ![avatar][base64str]
 
